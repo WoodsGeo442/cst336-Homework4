@@ -4,4 +4,4 @@ Tried to use faker for the "Newest Games" where when you press the button, it wo
 
 # Github Link: https://github.com/WoodsGeo442/cst336-homework4
 
-#Heroku Link: https://cst336-geoffreywoods-homework4.herokuapp.com/home
+# Heroku Link: https://cst336-geoffreywoods-homework4.herokuapp.com/home
